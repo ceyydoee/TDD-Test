@@ -1,4 +1,4 @@
-from cgitb import small
+
 import unittest
 from animal import animal
 
